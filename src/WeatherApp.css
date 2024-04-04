@@ -1,0 +1,11 @@
+.weather-app{
+    background-color: rgba(255, 255, 255, 0.429);
+    margin-left: 26rem;
+    margin-right: 26rem;
+    border-radius: 0.9rem;
+    text-align: center;
+}
+
+.weather-app h2{
+    padding: 0.6rem;
+}

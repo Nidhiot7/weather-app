@@ -1,0 +1,21 @@
+.searchBox {
+    text-align: center;
+   margin-bottom: 1rem;
+    
+}
+
+.searchBox button{
+    margin: 10px 0 0 10px;
+}
+
+.searchBox form p{
+    width: 20rem;
+    margin-left: 4rem;
+}
+
+.search {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
